@@ -47,7 +47,7 @@ will connect to the WiFi network configured in your .yaml file. 🎉
     :align: center
     :width: 60.0%
 
-Happy Hacking!
+Happy Hacking!  :-)
 
 .. note::
 
